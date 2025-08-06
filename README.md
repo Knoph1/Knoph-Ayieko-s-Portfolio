@@ -1,8 +1,12 @@
-# Knoph's Portfolio — [knoph.dev](https://www.knoph.dev)
+# Knoph's Portfolio
+
+## [knoph.dev](https://www.knoph.dev)
 
 <img src="https://raw.githubusercontent.com/Knoph1/knoph.dev/main/public/images/profile.png" alt="Portfolio Banner" width="50" height="50" style="object-fit: cover; border-radius: 10px;" />
 
 > ⚙️ _The **Auto-magic Portfolio**: Designed to evolve. Built to inspire. Crafted by **Knoph Ayieko**._
+
+> Optimized for performance, accessibility and responsiveness.
 
 ---
 
@@ -43,24 +47,16 @@ This project serves as:
 
 ---
 
-## 🌐 Live Site
-
-🟢 **[Visit the Portfolio → www.knoph.dev](https://www.knoph.dev)**
-
-Optimized for performance, accessibility and responsiveness.
-
----
-
 ## 🛠️ Getting Started
 
 To run the project locally:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Knoph1/knoph.dev.git
+git clone https://github.com/Knoph1/Knoph-Ayieko-s-Portfolio.git
 
 # 2. Navigate to project folder
-cd Knoph-dev
+cd Knoph-Ayieko-s-Portfolio
 
 # 3. Install dependencies
 npm install
@@ -76,7 +72,7 @@ npm run dev
 This project follows a progressive semantic versioning system.
 
 - `v1.0.0`        — Initial Build
-- `v21.2.0`       — Current Milestone
+- `v21.3.0`       — Current Milestone
 
 ---
 
@@ -122,4 +118,4 @@ This project is licensed under the **MIT License** — feel free to build, adapt
 
 ### ✨ "Stay wise. Build well. Live fully."
 
----
+&copy; August 6, 2025 | Knoph Ayieko's Portfolio | All rights reserved.
