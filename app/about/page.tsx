@@ -51,7 +51,7 @@ export default function AboutPage() {
                 creating solutions that bridge the gap between innovation and real-world needs.
               </p>
               <p>
-                I hold a BSc in Information Technology from the University of Kabianga and have further honed my skills
+                I hold a BSc (Information Technology) from the University of Kabianga and have further honed my skills
                 through the ALX Africa Software Engineering Program. My experiences span developing digital health
                 platforms, managing IT projects and providing virtual assistance to diverse clients.
               </p>
@@ -67,9 +67,9 @@ export default function AboutPage() {
             <div className="space-y-8">
               <div className="border-l-2 border-primary pl-4 space-y-2">
                 <h3 className="font-bold">Full-Stack Web Developer</h3>
-                <p className="text-primary">O.L Enterprises & Services Co. Ltd. • January 2025 - Present</p>
+                <p className="text-primary">O.L Services Co. Ltd. • March 2025 - May 2025</p>
                 <p className="text-muted-foreground">
-                  Designed, developed, and maintained front-end and back-end systems using HTML, CSS, JavaScript,
+                  Designed, developed and maintained front-end and back-end systems using HTML, CSS, JavaScript,
                   Node.js and MongoDB. Created responsive, scalable, secure applications and delivered solutions via
                   cross-functional collaboration. Handled the full development process for seamless user experience.
                 </p>
@@ -86,11 +86,10 @@ export default function AboutPage() {
               </div>
 
               <div className="border-l-2 border-primary pl-4 space-y-2">
-                <h3 className="font-bold">IT Technician & Part-Time Lecturer</h3>
-                <p className="text-primary">University of Kabianga • September 2023 - January 2025</p>
+                <h3 className="font-bold">IT Apprentice</h3>
+                <p className="text-primary">University of Kabianga • September 2023 - January 2024</p>
                 <p className="text-muted-foreground">
-                  Provided technical support to staff and students. Managed hardware/software issues, network
-                  maintenance. Taught practical IT courses, guiding students in core skills.
+                  Provided technical support, managed hardware/software issues, guided students in core ICT skills.
                 </p>
               </div>
 
@@ -105,11 +104,11 @@ export default function AboutPage() {
               </div>
 
               <div className="border-l-2 border-primary pl-4 space-y-2">
-                <h3 className="font-bold">IT Attachee</h3>
+                <h3 className="font-bold">IT Attaché</h3>
                 <p className="text-primary">Kenya Power & Lighting Co. Ltd. (KPLC) • May 2022 - July 2022</p>
                 <p className="text-muted-foreground">
                   Supported installation, maintenance, troubleshooting of IT systems. Worked with hardware/software at
-                  KPLC North Rift HQ. Gained hands-on experience in technical support.
+                  KPLC North Rift HQ (Eldoret). Gained hands-on experience in technical support.
                 </p>
               </div>
 
@@ -118,7 +117,7 @@ export default function AboutPage() {
                 <p className="text-primary">Self-Employed • January 2019 - December 2024</p>
                 <p className="text-muted-foreground">
                   Founded and ran a local café and cyber business. Managed customer service, bookkeeping and daily
-                  operations. Provided internet access, printing, and document services to the community. Developed a
+                  operations. Provided internet access, printing and document services to the community. Developed a
                   strong understanding of business management, customer relations and tech support.
                 </p>
               </div>
@@ -155,11 +154,11 @@ export default function AboutPage() {
               </div>
               <div className="bg-muted p-3 rounded-lg">
                 <h3 className="font-medium">CCNA</h3>
-                <p className="text-sm text-muted-foreground">Cisco • 2025</p>
+                <p className="text-sm text-muted-foreground">Cisco • 2024</p>
               </div>
               <div className="bg-muted p-3 rounded-lg">
-                <h3 className="font-medium">Google Support IT, CompTIA Security+</h3>
-                <p className="text-sm text-muted-foreground">2024</p>
+                <h3 className="font-medium">CompTIA A+</h3>
+                <p className="text-sm text-muted-foreground">2025</p>
               </div>
               <div className="bg-muted p-3 rounded-lg">
                 <h3 className="font-medium">Certified Virtual Assistant</h3>
@@ -181,7 +180,7 @@ export default function AboutPage() {
             <div className="space-y-4">
               <div className="bg-muted p-4 rounded-lg">
                 <h3 className="font-medium">Association of Computing Practitioners-Kenya (ACPK)</h3>
-                <p className="text-sm text-muted-foreground">Professional Member | 3rd December, 2024 - Present</p>
+                <p className="text-sm text-muted-foreground">Professional Member | 4th December, 2024 - Present</p>
               </div>
               <div className="bg-muted p-4 rounded-lg">
                 <h3 className="font-medium">AA Driving School</h3>
